@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Im Hungry</string>
+    <!-- Strings for on boarding screen -->
+
+    <!-- Titles -->
+    <string name="first_slide_title">Search your location</string>
+    <string name="second_slide_title">Don\'t know where to go?</string>
+    <string name="third_slide_title">Know your timeline</string>
+
+
+    <!-- Description -->
+    <string name="first_slide_desc">You can search any place nearby or within the specified city.</string>
+    <string name="second_slide_desc">No worry. We provide the details of all nearby restaurants, hotels etc. with just a click.</string>
+    <string name="third_slide_desc">You can check your location history. Delete anytime you want.</string>
+
+    <!-- Buttons -->
+    <string name="skip_btn">Skip</string>
+    <string name="next_btn">Next</string>
+    <string name="lets_get_started">Lets get started</string>
+
+
+    <!-- Strings for on Login Screen -->
+    <string name="close">Close</string>
+
+    <!-- Categories -->
+    <string name="lodging">Hotels</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="atm">ATM</string>
+    <string name="tourist_attraction">Sights</string>
+    <string name="airports">Education</string>
+
+    <!-- Titles and desc -->
+    <string name="search">Search…</string>
+
+
+    <!-- Strings for on Main Menu -->
+    <string name="nav_explore">Explore</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_search_on_map">Maps</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="share">Share</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="slogan_name">Your guide for Hunger Station</string>
+
+    <!-- Strings for on Login Screen -->
+    <string name="welcome_message">Welcome to Hungry Guide</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="forget_password">Forget Password?</string>
+
+    <!-- Search Fragment -->
+    <string name="search_a_place">Search a place</string>
+    <string name="suggestions">Place</string>
+
+    <string name="call_not_available">Not available</string>
+    <string name="travel_default_mode">Walking</string>
+
+
+</resources>
